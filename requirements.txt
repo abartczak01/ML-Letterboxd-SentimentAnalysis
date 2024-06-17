@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.3
+langdetect==1.0.9
+matplotlib==3.3.4
+nltk==3.8.1
+numpy==2.0.0
+pandas==1.5.0
+Requests==2.32.3
+scipy==1.13.1
+seaborn==0.13.2
+torch==2.3.0
+tqdm==4.66.4
+transformers==4.41.2
+wordcloud==1.9.3
