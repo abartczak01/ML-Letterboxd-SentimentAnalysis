@@ -35,9 +35,9 @@ The popularity of the 'literally me' trope is reflected in the reviews by Letter
 
 ## Links
 
-- my presentation (in polish) -
+- my presentation (in polish)
 
-https://docs.google.com/presentation/d/1G2nYoNCjqpZu8ys1xREpiMG-lHYRKERBEcMUZ2bpX0M/edit?usp=sharing
+  https://docs.google.com/presentation/d/1G2nYoNCjqpZu8ys1xREpiMG-lHYRKERBEcMUZ2bpX0M/edit?usp=sharing
 
 - data scraping - Beautiful Soup documentation \[June 2024\]:
 
