@@ -31,6 +31,7 @@ The popularity of the 'literally me' trope is reflected in the reviews by Letter
 2. There has been a noticeable transition from using 'film' to predominantly 'movie,' suggesting a shift in the seriousness of reviews on Letterboxd.
 3. Keywords specific to the 'literally me' trope are notably more prevalent in recent reviews, underscoring their increasing usage in contemporary critiques.
 4. RoBERTa exhibited superior sentiment recognition compared to Vader.
+5. The review sentiment is consistent with the star rating
 
 ## Links
 
